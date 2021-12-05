@@ -1,0 +1,19 @@
+==============================
+= Don't Touch Red README.txt =
+==============================
+(Visit my github at github.com/Pixelbit1)
+YOU WILL NEED PYGAME TO RUN THIS PROGRAM (visit pygame.org for more information)
+
+This game is my first "proper" game, and is a passion project.
+This project orignially started as a rock paper scissors program, but quickly evolved into its current form.
+All in game assets are made by me.
+In total, this project took about 13 hours, starting on 29 November, 2021, and ending on 4 December, 2021.
+The premise of the game is that two players want to live longer than the other by trying not to "touch red".
+To navigate the menu, use Arrow Keys/WASD and SPACE/ENTER.
+
+Programs used:
+Thonny
+GIMP (GNU Image Manipulation Program)
+Pygame
+
+Feel free to do whatever you want with this code, just make sure to credit me.
